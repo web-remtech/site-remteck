@@ -468,3 +468,8 @@ textarea {
         display: none;
     }
 }
+
+.nav {
+    position: relative;
+    z-index: 9999;
+}
